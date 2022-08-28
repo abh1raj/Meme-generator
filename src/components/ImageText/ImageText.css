@@ -1,0 +1,27 @@
+span {
+  font-family: "Impact";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 32px;
+  /* -webkit-text-stroke: 3px black; */
+  line-height: 39px;
+  color: #ffffff;
+  outline: black;
+  position: absolute;
+  text-align: center;
+  text-transform: uppercase;
+  width: 80%;
+  left: 50%;
+  transform: translateX(-50%);
+  text-shadow: 2px 2px 0 #000, -2px -2px 0 #000, 2px -2px 0 #000,
+    -2px 2px 0 #000, 0 2px 0 #000, 2px 0 0 #000, 0 -2px 0 #000, -2px 0 0 #000,
+    2px 2px 5px #000;
+}
+
+.top {
+  top: 5%;
+}
+
+.bottom {
+  bottom: 5%;
+}

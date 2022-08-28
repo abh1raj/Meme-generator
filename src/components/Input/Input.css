@@ -1,0 +1,9 @@
+input {
+  width: 230px;
+  height: 35px;
+  border: 1px solid #d5d4d8;
+  border-radius: 5px;
+  font-family: inherit;
+  font-size: 16px;
+  padding: 10px;
+}

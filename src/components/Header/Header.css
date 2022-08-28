@@ -1,0 +1,26 @@
+.header {
+  height: 65px;
+  background: linear-gradient(90deg, #672280 1.18%, #a626d3 100%);
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 10px 20px;
+  margin-bottom: 36px;
+}
+
+.icon-container {
+  background-image: url("./TrollFace.png");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 32px;
+  height: 26px;
+}
+
+.header h1 {
+  color: #fff;
+  font-weight: 700;
+  font-size: 28px;
+  line-height: 24px;
+  letter-spacing: -0.1em;
+}
